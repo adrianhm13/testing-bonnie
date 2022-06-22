@@ -16,6 +16,7 @@ function App() {
       >
         {color === "red" ? "Change to blue" : "Change to red"}
       </button>
+      <input type="checkbox" />
     </div>
   );
 }
